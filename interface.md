@@ -6,10 +6,7 @@ layout: default
 
 ## Quest config:
 
-![Octocat]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
+![Quest config]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
 
 
-
-
-[Link to another page](./another-page.html).
 
