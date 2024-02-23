@@ -59,19 +59,15 @@ AND MORE! (soon)
 
 ## Sample of standard quest description:
 
-> Hello worl
->
-> Hello world 2
->
-> Hello world 3 
->
-> Hello world 4
->
-> Hello world 5 
->
-> Hello world asdf
->
-> Hello world 5
+```
+Hello worl
+Hello world 2
+Hello world 3 
+Hello world 4
+Hello world 5 
+Hello world asdf
+Hello world 5
+```
 
 ## Flexible config of each quest
 
