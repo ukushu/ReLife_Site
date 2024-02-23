@@ -27,6 +27,8 @@ layout: default
 
 - Quests history with ability to remove records from history
 
+- And all of this is absolultely FREE!
+
 
 ## Standard set of quests
 
@@ -57,12 +59,18 @@ AND MORE! (soon)
 
 ## Sample of standard quest description:
 
-> Hello world
+> Hello worl
+>
 > Hello world 2
+>
 > Hello world 3 
+>
 > Hello world 4
+>
 > Hello world 5 
+>
 > Hello world asdf
+>
 > Hello world 5
 
 ## Flexible config of each quest
