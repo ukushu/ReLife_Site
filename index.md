@@ -13,16 +13,22 @@ layout: default
 - Support of iOS/MacOS (iOS soon)
 
 - Great standard set of quests
+  - For male, female of both at the same time!
 
-- Most quests have an additional description to help you complete the quest with the most benefits for you
+- Most of standard quests have an additional description to help you complete the quest with the most benefits!
+
+- Ability to create own Quests set and Characteristics set!
+  - Flexible config of each quest
 
 - Ability to share your quests with other people (soon)
+
+- 2 languages support (English, Ukrainian). More - soon!
 
 - 
 
 
 
-# Standard set of quests
+## Standard set of quests
 
 You don't need to spend a hourst to start work with ReaLife! Just a few clicks and all is done!
 
@@ -45,8 +51,17 @@ You don't need to spend a hourst to start work with ReaLife! Just a few clicks a
 - Visit to a gynecologist for a routine check-up
 - Do Kegel exercises
 - Visit to a proctolog for a routine check-up
-- AND MORE! (soon)
+
+AND MORE! (soon)
+
+## Flexible config of each quest
+
+
+
+![Octocat]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
+
 
 
 
 [Link to another page](./another-page.html).
+
