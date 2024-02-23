@@ -22,15 +22,16 @@ layout: default
 
 - Ability to share your quests with other people (soon)
 
-- 2 languages support (English, Ukrainian). More - soon!
+- 2 languages support (English, Ukrainian)
+  - More - soon!
 
-- 
-
+- Quests history with ability to remove records from history
 
 
 ## Standard set of quests
 
-You don't need to spend a hourst to start work with ReaLife! Just a few clicks and all is done!
+You don't need to spend a hourst to start work with ReaLife! 
+Just a few clicks and all is done!
 
 - Clean teeth
 - Dantist visit
@@ -54,9 +55,17 @@ You don't need to spend a hourst to start work with ReaLife! Just a few clicks a
 
 AND MORE! (soon)
 
+## Sample of standard quest description:
+
+> Hello world
+> Hello world 2
+> Hello world 3 
+> Hello world 4
+> Hello world 5 
+> Hello world asdf
+> Hello world 5
+
 ## Flexible config of each quest
-
-
 
 ![Octocat]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
 
