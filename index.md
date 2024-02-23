@@ -45,7 +45,7 @@ You don't need to spend a hourst to start work with ReaLife! Just a few clicks a
 - Visit to a gynecologist for a routine check-up
 - Do Kegel exercises
 - Visit to a proctolog for a routine check-up
-and more!
+- AND MORE! (soon)
 
 
 
