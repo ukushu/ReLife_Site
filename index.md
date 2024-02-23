@@ -12,12 +12,40 @@ layout: default
   - Ability to get achievements (soon)
 - Support of iOS/MacOS (iOS soon)
 
-- Great standard set of quests (you don't need a hours to start work with app, just few clicks)
+- Great standard set of quests
 
 - Most quests have an additional description to help you complete the quest with the most benefits for you
 
+- Ability to share your quests with other people (soon)
 
-# Great standard set of quests
+- 
+
+
+
+# Standard set of quests
+
+You don't need to spend a hourst to start work with ReaLife! Just a few clicks and all is done!
+
+- Clean teeth
+- Dantist visit
+- Clean my apartment
+- Sport/Pushups
+- Face fitness
+- Eye fitness
+- Call my parents
+- Create social media post
+- Go sleep at time!
+- Spend less than 1 hour per day on social networks
+- Professional growth
+- Yoga
+- 8000 steps/day
+- Family party
+- Time with friends
+- Walk the dogWash the tableware immediately after eating
+- Visit to a gynecologist for a routine check-up
+- Do Kegel exercises
+- Visit to a proctolog for a routine check-up
+and more!
 
 
 
