@@ -4,7 +4,7 @@ layout: default
 
 # Most **AWESOME** life gamifier app :)
 
-- Simple interface (important for people with ADHD)
+- [Simple interface](./interface.html) (important for people with ADHD)
 
 - Videogame-like reward system:
   - Experience points
@@ -18,7 +18,7 @@ layout: default
 - Most of standard quests have an additional description to help you complete the quest with the most benefits!
 
 - Ability to create own Quests set and Characteristics set!
-  - Flexible config of each quest
+  - [Flexible config of each quest](./interface.html)
 
 - Ability to share your quests with other people (soon)
 
@@ -71,12 +71,8 @@ Hello world asdf
 Hello world 5
 ```
 
-## Flexible config of each quest
-
-![Octocat]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
 
 
 
-
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.html)
 
