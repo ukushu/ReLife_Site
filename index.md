@@ -18,7 +18,7 @@ layout: default
 - Most of standard quests have an additional description to help you complete the quest with the most benefits!
 
 - Ability to create own Quests set and Characteristics set!
-  - [Flexible config of each quest](./interface.html)
+  - [Flexible but simple quest config](./interface.html)
 
 - Ability to share your quests with other people (soon)
 
