@@ -6,6 +6,8 @@ layout: default
 
 - [Simple interface](./interface.html) (important for people with ADHD)
 
+- No registration needed
+
 - Videogame-like reward system:
   - Experience points
   - Small quests with fast reward(dophamine, but for usefull tasks)
@@ -28,6 +30,8 @@ layout: default
 - Quests history with ability to remove records from history
 
 - And all of this is absolultely FREE!
+
+- DataBase located on your iCloud
 
 
 
