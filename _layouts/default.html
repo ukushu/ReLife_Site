@@ -21,10 +21,14 @@
   <body>
     <header>
       <div class="inner" style="display: flex;">
-          <a href="{{ '/' | relative_url }}">
+          <a href="{{ '/' | relative_url }}" id="logo" >
               <img src="{{ '/assets/images/logo.png' | absolute_url }}" />
+          </a>
+          
+          <a id="title" >
               <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
+          </a>
+        
       </div>
     </header>
     
