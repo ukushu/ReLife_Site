@@ -52,7 +52,7 @@ Focus on your plans and needs and make the most of them!
 Make a plan for promoting your social media page!
 Think about your strategy!
 
-_,.-*'^'*-.,_,.-*'^'*-.,_,.-*'^'*-.,_ 
+________
 
 The fact that you will be forced to constantly look for new interesting topics will help you develop:
 * Communication skills (post - communication in the comments)
