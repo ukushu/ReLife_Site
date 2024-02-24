@@ -6,17 +6,17 @@ layout: default
 
 ## Main window:
 
-![Quest config]({{base}}/ReaLifeSite/assets/images/Main.gif)
+![Quest config]( {{ '/assets/images/Main.gif' | relative_url }} )
 
 
 ## Quest config:
 
-![Quest config]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
+![Quest config]( {{ '/assets/images/QuestConfig.gif' | relative_url }} )
 
 
 ## Characteristics config:
 
-![Quest config]({{base}}/ReaLifeSite/assets/images/ChachactConfig.gif)
+![Quest config]( {{ '/assets/images/ChachactConfig.gif' | relative_url }} )
 
 
 ## Timer:
