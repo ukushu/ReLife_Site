@@ -21,10 +21,9 @@
   <body>
     <header>
       <div class="inner" style="display: flex;">
-        <img src="{{ '/assets/images/logo.png' | absolute_url }}" />
-        
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <a href="{{ '/' | relative_url }}">
+              <img src="{{ '/assets/images/logo.png' | absolute_url }}" />
+              <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
       </div>
     </header>
@@ -38,7 +37,7 @@
         <aside id="sidebar">
             
             <H2>
-                <a href="{{ '/' | absolute_url }}">Home</a>
+                <a href="{{ '/' | relative_url }}">Home</a>
                 
                 <a href="{{ '/interface.html' | relative_url }}">Interface</a>
                 
