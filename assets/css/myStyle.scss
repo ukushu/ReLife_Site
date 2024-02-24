@@ -1,16 +1,22 @@
 ---
 ---
 
+
+
 #sidebar H2 a {
   line-height: 1.8;
   color: #474747;
 }
 
-#logo {
+header .inner {
+  display: flex;
+}
+
+header .inner #logo {
   flex: 1;
 }
 
-#title {
+header .inner #title {
   flex: 1;
   margin-top: 25px;
 }
