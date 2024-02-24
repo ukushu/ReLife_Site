@@ -47,17 +47,12 @@
                 
                 <a href="{{ '/StandardQuests.html' | relative_url }}">Standard quests</a> </br>
                 
-                <a href="{{ '/another-page.html' | relative_url }}">Another page</a> </br>
+                <a href="{{ '/' | absolute_url }}">Download (AppStore)</a> </br>
+                
+                ___
+                
+                <a href="{{ 'https://apps.apple.com/ua/app/taogit/id1582642693?mt=12' | absolute_url }}">Help</a> </br>
             </H2>
-            
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              Install app
-            </a>
-          {% endif %}
-          
-          
-          
         </aside>
       </div>
     </div>
