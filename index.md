@@ -15,7 +15,7 @@ layout: default
 - Support of iOS/MacOS (iOS soon)
 
 - Great [standard set of quests](./StandardQuests.html)
-  - For male, female of both at the same time!
+  - For male, female, all-genders quests
 
 - Most of [standard quests](./StandardQuests.html) have an additional description to help you complete the quest with the most benefits!
 
@@ -27,13 +27,14 @@ layout: default
 - 2 languages support (English, Ukrainian)
   - More - soon!
 
-- Quests history with ability to remove records from history
+- Quests history
+
+- Few ways to finish quests:
+  - Mark it as finished
+  - Count-down timer
+  - Wizard-quest (individual for some quests) (soon)
+
+- DataBase located on your iCloud. It is only yours and absolutely private!
 
 - And all of this is absolultely FREE!
-
-- DataBase located on your iCloud
-
-
-
-[Link to another page](./another-page.html)
 
