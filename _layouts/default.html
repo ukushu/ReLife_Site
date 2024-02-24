@@ -40,12 +40,12 @@
             <H2>
                 <a href="{{ '/' | absolute_url }}">Home</a>
                 
-                <a href="{{ /interface.html | relative_url }}">Interface</a>
+                <a href="{{ '/interface.html' | relative_url }}">Interface</a>
                 
-                <a href="{{ /StandardQuests.html | relative_url }}">Standard quests</a>
+                <a href="{{ '/StandardQuests.html' | relative_url }}">Standard quests</a>
                 
-                <a href="{{ /another-page.html | relative_url }}">Another page</a>
-            </H3>
+                <a href="{{ '/another-page.html' | relative_url }}">Another page</a>
+            </H2>
             
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
