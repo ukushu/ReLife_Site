@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/myStyle.css'| relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
+    
+    
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -19,7 +21,7 @@
   <body>
     <header>
       <div class="inner" style="display: flex;">
-        <img src="{{base}}/ReaLifeSite/assets/images/logo.png" />
+        <img src="{ /assets/images/logo.png | relative_url }" />
         
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -35,14 +37,14 @@
         
         <aside id="sidebar">
             
-            <H2 style="color: #474747;">
-                <a href="{{base}}/ReaLifeSite/">Home</a>
+            <H2>
+                <a href="{ / | relative_url }">Home</a>
                 
-                <a href="{{base}}/ReaLifeSite/interface.html">Interface</a>
+                <a href="{interface.html | relative_url }">Interface</a>
                 
-                <a href="{{base}}/ReaLifeSite/StandardQuests.html">Standard quests</a>
+                <a href="{StandardQuests.html | relative_url }">Standard quests</a>
                 
-                <a href="{{base}}/ReaLifeSite/another-page.html">Another page</a>
+                <a href="{another-page.html | relative_url }">Another page</a>
             </H3>
             
           {% if site.show_downloads %}
