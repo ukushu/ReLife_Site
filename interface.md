@@ -4,6 +4,11 @@ layout: default
 
 # Interface
 
+## Main window:
+
+![Quest config]({{base}}/ReaLifeSite/assets/images/Main.gif)
+
+
 ## Quest config:
 
 ![Quest config]({{base}}/ReaLifeSite/assets/images/QuestConfig.gif)
@@ -13,9 +18,6 @@ layout: default
 
 ![Quest config]({{base}}/ReaLifeSite/assets/images/ChachactConfig.gif)
 
-## Main window:
-
-Timer here
 
 ## Timer:
 
