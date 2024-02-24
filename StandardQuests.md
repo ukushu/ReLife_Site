@@ -32,11 +32,31 @@ AND MORE! (soon)
 ## Sample of "Create social media post" quest description:
 
 ```
-Hello worl
-Hello world 2
-Hello world 3 
-Hello world 4
-Hello world 5 
-Hello world asdf
-Hello world 5
+A post should not be about anything, but with a specific purpose and for a specific audience. 
+It should be such that it could potentially be monetized. 
+And, of course, it should be about an interesting topic.
+
+To begin with, you should look for an interesting topic and identify your future audience.
+
+You should also choose the way of monetization in advance. 
+If you plan to simply maintain a page with information and earn money from advertising, 
+this is one strategy. If you plan to make posts about selling a product or service, 
+this is a completely different approach.
+
+Post type:
+* If it's a text post - once a day.
+* If it's a video, you can post it 1-2 times a week, and devote the rest of the days, 
+for example, to preparing and shooting the material.
+
+Focus on your plans and needs and make the most of them!
+Make a plan for promoting your social media page!
+Think about your strategy!
+
+_,.-*'^'*-.,_,.-*'^'*-.,_,.-*'^'*-.,_ 
+
+The fact that you will be forced to constantly look for new interesting topics will help you develop:
+* Communication skills (post - communication in the comments)
+* Self-development (more knowledge and more practical experience in creating content, not in consuming it)
+* In case of success - a bonus - an advertising platform where you can make money or business.
+* Certain SMM skills, which is also likely to be useful
 ```
