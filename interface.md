@@ -6,7 +6,7 @@ layout: default
 
 ## Main window:
 
-![Quest config]( {{ '/assets/images/Main.gif' | relative_url }} )
+![Main window]( {{ '/assets/images/Main.gif' | relative_url }} )
 
 
 ## Quest config:
@@ -16,9 +16,9 @@ layout: default
 
 ## Characteristics config:
 
-![Quest config]( {{ '/assets/images/ChachactConfig.gif' | relative_url }} )
+![Characteristics config]( {{ '/assets/images/ChachactConfig.gif' | relative_url }} )
 
 
 ## Timer:
 
-Timer here
+![Timer view]( {{ '/assets/images/Timer.gif' | relative_url }} )
