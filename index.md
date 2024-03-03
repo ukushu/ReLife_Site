@@ -38,3 +38,8 @@ layout: default
 
 - And all of this is absolultely FREE!
 
+
+
+# Minimum requirements
+- iOS: 16
+- macOS: 13
