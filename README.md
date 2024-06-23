@@ -1,6 +1,6 @@
 # ReaLife
 
-https://realife.pp.ua/
+https://relife.pp.ua/
 
 https://ukushu.github.io/ReaLifeSite/
 
