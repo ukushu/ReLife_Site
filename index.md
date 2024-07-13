@@ -34,7 +34,12 @@ layout: default
   - Count-down timer
   - Wizard-quest (individual for some quests) (soon)
 
-- DataBase located on your iCloud. It is only yours and absolutely private!
+- DataBase located on your local storage. It is only yours and absolutely private!
 
 - And all of this is absolultely FREE!
 
+
+
+# Minimum requirements
+- iOS: 16
+- macOS: 12
